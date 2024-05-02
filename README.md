@@ -1,2 +1,2 @@
 # super-duper-octo-funicular
-projeto de aula de computação
+projeto de aula de computaçãoc
