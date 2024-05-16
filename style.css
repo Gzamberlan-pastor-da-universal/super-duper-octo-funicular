@@ -1,9 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ropa+Sans:ital@0;1&display=swap');
+
 *{
     margin: 0;
     padding: 0;
 }
 
+:root{
+    --cor-primaria: #4b4848;
+    --cor-secundaria: #eb5e28;
+    --cor-tercearia: #ccc5b9;
+    --cor-quaternaria: #252422;
+    --texto-corpo: "Ropa Sans", sans-serif;
+    --texto-titulo: "Bebas Neue", sans-serif;
+}
+
 body{
-    background: #4b4848;
-    color: whitesmoke;
+    background: var(--cor-quaternaria);
+    color: var(#eb5e28);
+    font-family: var(#ccc5b9);
 }
