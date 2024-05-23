@@ -19,3 +19,18 @@ body{
     color: var(#eb5e28);
     font-family: var(#ccc5b9);
 }
+
+.cabecalho{
+    background-color: var(--cor-secundaria);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+}
+
+.cabecalho-img{
+    width: 10%;
+    border-radius: 100%;
+}
+
+.cabecalho
